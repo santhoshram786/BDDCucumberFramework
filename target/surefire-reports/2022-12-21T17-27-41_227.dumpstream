@@ -1,0 +1,5 @@
+# Created at 2022-12-21T17:27:42.604
+Boot Manifest-JAR contains absolute paths in classpath 'E:\SpringSTSWorkSpace\SanthoshFramework\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

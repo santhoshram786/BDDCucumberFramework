@@ -1,0 +1,5 @@
+com\factory\PropertyFactory.class
+com\WebPages\LoginPage.class
+com\factory\WebDriverFactory.class
+com\factory\WebDriverFactoryParallel.class
+com\utilities\ConfigPropReader.class

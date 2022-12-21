@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <echo>Using config.prod.properties</echo>
+  <copy file="src/main/resources/configurations/config.prod.properties" tofile="E:\SpringSTSWorkSpace\SanthoshFramework\target\classes/config.properties"/>
+</target>
+</project>
